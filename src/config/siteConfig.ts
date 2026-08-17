@@ -22,7 +22,7 @@ const pages = resolvePageToggles({
   // 相册页面开关
   gallery: true,
   // 书签导航页面开关
-  booknav: true,
+  booknav: false,
   // 哔哩哔哩追番页面开关
   bilibili: false,
   // 番组计划页面开关
@@ -35,7 +35,7 @@ const pages = resolvePageToggles({
   // ── 关于 (About) ──────────────────────────────────
 
   // 打赏页面开关
-  sponsor: true,
+  sponsor: false,
 });
 
 export const siteConfig: SiteConfig = {
@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
   subtitle: "Life will change.",
 
   // 站点 URL
-  site_url: "https://firefly.cuteleaf.cn",
+  site_url: "https://blog.halory.fun",
 
   // 站点描述
   description: "若爱你就来，不爱莫猖狂",

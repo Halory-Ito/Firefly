@@ -47,3 +47,7 @@ package/
 .codex*
 .claude
 .mimocode
+
+
+# 示例
+**/example

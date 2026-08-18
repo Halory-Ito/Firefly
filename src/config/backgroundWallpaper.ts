@@ -61,8 +61,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
     // 支持远程视频URL，本地视频请放在 public/assets/videos/ 目录下
     // playerUrl: "/assets/videos/firefly.mp4",
     // playerUrl: "https://bed.twoleaf.cn/file/1785658612716_firefly.mp4",
-    playerUrl:
-      "https://pub-bbbc6cb9dc06427eb3da67da65ec9aa8.r2.dev/video_%E4%B8%80%E7%BA%B8%E7%A9%BA%E8%B0%88%E7%BB%98%E6%88%90%E5%A6%82%E6%84%BF%E4%BB%A5%E5%81%BF%E3%80%90%E9%9D%99%E6%AD%A2%E7%B3%BBMA..._0.mp4",
+    playerUrl: "https://r2.halory.fun/video/home-video.mp4",
   },
   // 横幅壁纸和全屏壁纸共享配置
   common: {

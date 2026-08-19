@@ -524,7 +524,7 @@ const siteLang = lang.replace("_", "-");
           );
           if (bannerTextOverlay) {
             const isHomePage =
-              window.location.pathname === baseUrl || 
+              window.location.pathname === baseUrl ||
               (baseUrl !== '/' && window.location.pathname === baseUrl.replace(/\/$/, '')) ||
               window.location.pathname === "/";
             if ((wallpaperMode === WALLPAPER_BANNER || wallpaperMode === WALLPAPER_FULLSCREEN) && isHomePage) {
@@ -577,6 +577,8 @@ const siteLang = lang.replace("_", "-");
       title={profileConfig.name}
       href={`${Astro.site}rss.xml`}
     />
+
+    <meta name="msvalidate.01" content="803173B3DE559D34E3BFE6E9B3B91266" />
 
     <!-- Font Setup (Astro Font API) -->
     <FontSetup />
@@ -1346,14 +1348,14 @@ function disableAnimation() {
       // 同步主题状态 - 解决从首页进入文章页面时代码块渲染问题
       const storedTheme = localStorage.getItem("theme") || siteConfig.themeColor.defaultMode || "light";
       let isDark = false;
-      
+
       // 处理 system 模式
       if (storedTheme === "system") {
         isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
       } else {
         isDark = storedTheme === "dark";
       }
-      
+
       const expectedTheme = isDark
         ? expressiveCodeConfig.darkTheme
         : expressiveCodeConfig.lightTheme;

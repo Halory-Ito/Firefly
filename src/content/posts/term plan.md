@@ -5,7 +5,7 @@ description: "凡事预则立，不预则废"
 image: "./cover/term-plan.png"
 tags: ["规划"]
 category: "规划"
-draft: false
+draft: true
 lang: ""
 slug: term plan
 pinned: true

@@ -49,7 +49,7 @@ export const siteConfig: SiteConfig = {
   site_url: "https://shizuku.halory.fun",
 
   // 站点描述
-  description: "若爱你就来，不爱莫猖狂",
+  description: "原神牛逼喵~",
 
   // 站点关键词
   keywords: ["Shizuku", "Fuwari", "Astro", "ACGN", "博客", "技术博客", "静态博客"],

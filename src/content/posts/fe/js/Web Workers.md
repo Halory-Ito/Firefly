@@ -3,8 +3,7 @@ title: Web Workers
 published: 2026-08-31
 description: ""
 image: ""
-tags: ["js", "fe"]
-category: "fe"
+category: "Frontend"
 draft: false
 lang: ""
 slug: Web Workers

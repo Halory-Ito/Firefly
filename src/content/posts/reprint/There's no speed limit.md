@@ -3,7 +3,6 @@ title: There's no speed limit
 published: 2026-08-24
 description: "the standard pace is for chumps. If you're more driven than most people, you can do way more than anyone expects. "
 image: ""
-tags: ["转载", "思辨"]
 category: "转载"
 draft: false
 lang: ""

@@ -3,8 +3,7 @@ title: WebMCP尝鲜
 published: 2026-10-09
 description: "你需要给你的Web应用添加WebMCP了"
 image: ""
-tags: ["front", "ai"]
-category: "fe"
+category: "Frontend"
 draft: false
 lang: ""
 slug: webmcp-chang-xian

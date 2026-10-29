@@ -3,8 +3,7 @@ title: Event Loop
 published: 2026-08-31
 description: ""
 image: ""
-tags: ["nodejs"]
-category: "fe"
+category: "Frontend"
 draft: false
 lang: ""
 slug: Event Loop

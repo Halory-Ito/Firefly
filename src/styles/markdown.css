@@ -1,5 +1,13 @@
 @reference "tailwindcss";
 
+.custom-md.markdown-content {
+  font-size: 1.0625rem;
+
+  @media (min-width: 768px) {
+    font-size: 1.125rem;
+  }
+}
+
 .custom-md {
   overflow-wrap: break-word;
 

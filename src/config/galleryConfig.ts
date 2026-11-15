@@ -22,7 +22,7 @@ export const galleryConfig: GalleryConfig = {
       location: "福州",
       date: "2026-04-20",
       tags: ["游记"],
-      cover: "https://r2.halory.fun/gallery/FuZhou-2026/01.jpg",
+      cover: "https://r2.halory.xyz/gallery/FuZhou-2026/01.jpg",
     },
     // {
     // 	id: "encrypted-test",

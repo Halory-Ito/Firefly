@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
   subtitle: "Life will change.",
 
   // 站点 URL
-  site_url: "https://shizuku.halory.fun",
+  site_url: "https://blog.halory.xyz",
 
   // 站点描述
   description: "原神牛逼喵~",

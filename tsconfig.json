@@ -42,7 +42,8 @@
   "include": [
     ".astro/types.d.ts",
     "src/**/*",
-    "scripts/**/*"
+    "scripts/**/*",
+    "public/dsh-pet.js"
   ],
   "exclude": [
     "dist"

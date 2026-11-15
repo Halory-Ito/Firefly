@@ -69,7 +69,7 @@ export default defineConfig({
 
 	base: "/",
 	// 避开 Windows 的 4321 排除端口；Astro 监听端口需在顶层配置。
-	server: { port: 8080 },
+	server: { port: 4321 },
 	trailingSlash: "always",
 
 	// 字体配置 - 只加载实际使用的字体，跳过未引用的以加快构建
